@@ -1,0 +1,23 @@
+.eat{
+    background-color: rgb(159, 87, 211);
+    color:white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    transform: scale(1);
+}
+
+.eat:hover{
+    background-color: #9f32ed;
+    transform: scale(1.1);
+}
+
+.instruction{
+    width: 100%;
+    /* height: 300px; */
+    background-color: pink;
+    padding: 10px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
